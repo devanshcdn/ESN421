@@ -2,6 +2,9 @@
 
 Repositry for Numerical Modelling Classes
 
+
+Some Basic Terminal Commands for GitHub:
+
 1) git init
    For creating or initiating
 
