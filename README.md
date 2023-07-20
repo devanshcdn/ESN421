@@ -18,4 +18,4 @@ Repositry for Numerical Modelling Classes
    To push changes on a branch
  
 5) git checkout
-    To delete any changes that seem to be uncertain   
+   To delete any changes that seem to be uncertain   
